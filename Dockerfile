@@ -1,4 +1,4 @@
-FROM alpine:glibc
+FROM xccszu/alpine-glibc:3.12
 MAINTAINER Docker  <xccszu@hotmail.com>
 
 #复制文件
